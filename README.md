@@ -62,7 +62,7 @@
 ## 시각화 도구
 | Matplotlib | Seaborn | Heatmap |
 |:----------:|:-------:|:-------:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100"/> | <img src="https://github.com/shahmaran0207/crime_report_correlation/blob/main/heatmap.png" alt="Heatmap" width="50"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100"/> |  <img src="https://via.placeholder.com/150?text=Heatmap" alt="Heatmap" width="100"/> |
 
 ---
 
